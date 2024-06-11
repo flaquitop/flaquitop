@@ -1,7 +1,10 @@
 Soy una persona muy entusiasta de todo lo que sean temas de tecnología e informática desde
 que tengo uso de razón.
+
 Poseo una alta capacidad de aprendizaje, adaptación y dedicación en todo lo que emprendo.
+
 15 años de experiencia como técnico de Telecomunicaciones (telefonía fija y móvil, internet y fibra óptica) resolviendo incidencias y brindar asesoramiento técnico. además Instalación y mantenimiento de equipos y redes de telefonía.
+
 Analista de Datos con experiencia en análisis y visualización de datos para tomar decisiones
 empresariales. Conocimientos en programación, modelado de datos y asistencia técnica para
 optimizar el desempeño empresarial.
